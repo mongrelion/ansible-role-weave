@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mongrelion/ansible-role-weave.svg?branch=master)](https://travis-ci.org/mongrelion/ansible-role-nomad)
+[![Build Status](https://travis-ci.org/mongrelion/ansible-role-weave.svg?branch=master)](https://travis-ci.org/mongrelion/ansible-role-weave)
 
 weave
 =========
